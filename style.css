@@ -1,0 +1,15 @@
+table{width: 100%;
+    height: 98vh;
+    text-align: center;}
+    
+    td{width: 5.5%;
+    height: 10%;}
+
+.fundo{background-color: #79E773};
+
+.logo{position: relative; right: 30px; top: 10px;}
+a{color: black;}
+.textoquemsomos{
+    font-size: 35px;
+    text-align: center;
+}
